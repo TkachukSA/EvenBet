@@ -1,0 +1,18 @@
+
+.styledbutton {
+    width: 124px;
+    border-radius: 15px;
+    background: black;
+    font-size: 18px;
+    color: white;
+}
+
+.countdown {
+   margin: 20px;
+}
+
+button[disabled]{
+    border: 1px solid #999999;
+    background-color: #cccccc;
+    color: #666666;
+}

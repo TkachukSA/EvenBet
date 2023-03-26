@@ -1,0 +1,11 @@
+.app-layout {
+  background-color: white;
+  height: calc(100vh - 96px);
+  margin-top: 96px;
+  position: relative;
+}
+.app-content {
+  background: rebeccapurple;
+  padding: 0 60px 40px;
+
+}

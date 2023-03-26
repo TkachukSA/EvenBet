@@ -1,0 +1,10 @@
+.AnimationPage {
+    background: red;
+    height: calc(100vh - 70px);
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+    background: white;
+}
